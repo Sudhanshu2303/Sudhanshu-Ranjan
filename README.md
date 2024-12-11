@@ -13,13 +13,10 @@ I'm a College school student with a passion for learning and coding. I'm constan
 
 ### <picture><img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 30px></picture> *Languages and Tools🧰*
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java,react,tailwind,vite,nextjs,vscode,npm,nodejs,bootstrap,git,github,vercel)](https://skillicons.dev)
-
-
-
-<br />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java,react,tailwind,vite,nextjs,vscode,npm,nodejs,bootstrap,git,github,vercel)](https://skillicons.dev)<br />
 
 #
+
 
 ## <picture><img src = "Hacker.gif" width = 50px></picture> *About Me*
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200" align="right">
