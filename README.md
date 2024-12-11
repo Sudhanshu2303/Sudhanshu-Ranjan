@@ -63,4 +63,4 @@ I believe that coding is like solving puzzles – challenging but incredibly rew
 
 Thanks for stopping by! 🚀
 <h3 align="center">Show some 💗 by 🌟 some of the repositories!</h3>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
