@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-https://github.com/user-attachments/assets/4d1c98fb-da8c-442a-ac49-342c246f6ed2
+![Sudhasnhu Ranjan](https://github.com/user-attachments/assets/63c977d3-db67-4bc2-8ca0-2019883b022b)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffba08&size=35&center=true&font-family=&vCenter=true&width=1000&lines=Greetings,+World!+I'm+Sudhanshu+Ranjan;I'm+from+INDIA🇮🇳;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
